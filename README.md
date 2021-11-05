@@ -4,7 +4,7 @@
 
 ## 👨‍🎓 About me!
 
-- 🤖 I'm currently working on [AntiRaid](https://github.com/elijahgives)!
+- 🤖 I'm currently working on new projects!
 - 📚 I live and study in Canada
 - 🥅 2021 Goals: Posting more open-source projects!
 - 🖥 I'm using Visual Studio Code 
