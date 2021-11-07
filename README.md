@@ -11,13 +11,10 @@
 
 <br />
 
-### 💻 Languages and Tools I use:
-- Editor: Visual Studio Code
-- Terminal: Windows
+### 💻 Languages I've mastered:
 - Python
-- Javascript (and Node)
-- HTML5
-- CSS3
+- JavaScript & NodeJS
+- HTML5 & CSS3
 
 
 
