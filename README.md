@@ -24,14 +24,6 @@
 ---
 
 
-
-
-
-
-  <summary>:zap: GitHub Stats</summary><br/>
-
-
-  <img align="left" alt="Elijah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elijahgives&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elijahgives&show_icons=true&theme=radical&hide_border=true" />
   
-
 
