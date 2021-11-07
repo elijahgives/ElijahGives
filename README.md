@@ -15,7 +15,6 @@
 - Python
 - JavaScript & NodeJS
 - HTML5 & CSS3
--
 <br />
 
 ---
