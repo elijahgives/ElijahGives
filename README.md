@@ -5,7 +5,7 @@
 ## 👨‍🎓 About me!
 
 - 🤖 I'm currently working on [webhook-client](https://github.com/ElijahGives/webhook-client) and [phish-detector](https://github.com/ElijahGives/phish-detector)!
-- 🥅 2021 Goals: Posting more open-source projects!
+- 🥅 2022 Goals: Posting more open-source projects!
 - 🖥 I'm using Visual Studio Code 
 
 ### 💻 Languages I've mastered:
