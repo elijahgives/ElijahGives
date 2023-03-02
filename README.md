@@ -5,7 +5,7 @@ js/ts, python, java, c#, c++, webdev, ruby, rust, swift, and AI
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ElijahGives&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=elijahgives&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=ElijahGives&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)
 
