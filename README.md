@@ -1,22 +1,8 @@
+hey there 👋
+I'm Elijah – a developer and computer science student with a passion for AI.
 
-### Hi, I'm Elijah 👋
+js/ts, python, java, c#, c++, webdev, ruby, rust, swift, and AI
 
-
-## 👨‍🎓 About me!
-
-- 🤖 I'm currently learning new technologies!
-- 🥅 2023 Goals: Post more open-source projects!
-- 🖥 I use PyCharm, WebStorm and IntelliJ IDEA
-
-### 💻 Technologies I've mastered:
-- Python
-- Node.js
-- JavaScript - HTML/CSS
-- Next.js/TailwindCSS
-- Java
----
-
-## ⭐ My stats
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElijahGives&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true)
