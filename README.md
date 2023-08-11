@@ -1,7 +1,7 @@
 hey there 👋
 I'm Elijah – a developer and computer science student with a passion for AI.
 
-js/ts, python, java, c#, c++, webdev, ruby, rust, swift, and AI
+js/ts, python, java, c#, c++, webdev, ruby, rust, swift, golang and AI
 
 <div align="center">
 
